@@ -20,4 +20,4 @@ To start the project run:
  - docker-compose up
  
  Login to pgAdmin at 127.0.0.1:5050 and connect to the server.
- Go to 127.0.0.1:8000/docs to test CRUD operations
+ Go to 127.0.0.1:8000/docs to test CRUD operations.
